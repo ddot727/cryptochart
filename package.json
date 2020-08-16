@@ -1,0 +1,20 @@
+{
+  "name": "cryptochart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/cryptochart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddot727/cryptochart.git"
+  },
+  "author": "Erick Todd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddot727/cryptochart/issues"
+  },
+  "homepage": "https://github.com/ddot727/cryptochart#readme"
+}

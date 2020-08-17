@@ -8,4 +8,4 @@ program
   .parse(process.argv);
 
 
-console.log("Hello Erick. Welcome to the simulation");
+// console.log("Hello Erick. Welcome to the simulation");
